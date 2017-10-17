@@ -339,3 +339,27 @@ body {
         page-break-after: avoid;
     }
 }
+
+.main {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 35px;
+    background-color: #808080;
+}
+
+.status-bar {
+    height: 35px;
+    line-height: 35px; 
+    margin: 0 auto;
+    padding-right: 25px;
+    padding-left: 25px;
+    background-color: #fff;
+}
+
+.menu-button {
+    list-style:none;
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+}
